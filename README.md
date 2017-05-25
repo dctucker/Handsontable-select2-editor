@@ -3,8 +3,7 @@ Handsontable-select2-editor
 
 Handsontable Select2 Editor
 
-This editor works with Select2 4.0.2 and Handsontable 0.32.0-beta2
-
+This editor works with Select2 4.0.2 and Handsontable 0.32.0-beta2 geared towards the SELECT MULTIPLE usage.
 
 Using this custom editor
 
